@@ -1,4 +1,4 @@
-  name: Build
+name: Build
 on:
   repository_dispatch:
     types: [start-java-hello-world-with-maven-workflow]
